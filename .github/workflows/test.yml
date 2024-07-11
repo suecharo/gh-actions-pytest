@@ -30,6 +30,7 @@ jobs:
         run: |
           python3 -m pip install --progress-bar off -U pip
           python3 -m pip install --progress-bar off -U .[tests]
+          python3 -m pip install pytest
 
       - name: echo pip list
         run: |
