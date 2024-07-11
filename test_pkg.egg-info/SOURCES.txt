@@ -1,0 +1,8 @@
+pyproject.toml
+test_pkg/__init__.py
+test_pkg/mod.py
+test_pkg/run.sh
+test_pkg.egg-info/PKG-INFO
+test_pkg.egg-info/SOURCES.txt
+test_pkg.egg-info/dependency_links.txt
+test_pkg.egg-info/top_level.txt
